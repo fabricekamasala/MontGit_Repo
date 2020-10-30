@@ -8,5 +8,6 @@
 </head>
 <body>
      <h1>Salut les amis Comment vous allez</h1>
+     <h2>Salut les amis Comment vous allez</h2>
 </body>
 </html>
