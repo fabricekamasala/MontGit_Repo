@@ -8,5 +8,7 @@
 </head>
 <body>
 <h1>Bonjour les amis comment vous allez</h1>
+
+<div>Mon adresse :kamasalafabrice@yahoo.fr</div>
 </body>
 </html>
